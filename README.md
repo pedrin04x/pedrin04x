@@ -5,15 +5,15 @@
     <div>
         <h2>Minhas Habilidades</h2>
         <ul>
-            <li>Conhecimento em linguagem Python;</li>
+            <li>Conhecimento em linguagem Python</li>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-            <li>Experiência em HTML, CSS e Javascript;</li>
+            <li>Experiência em HTML, CSS e Javascript</li>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-            <li>Conhecimentos básicos em banco de dados MySQL;</li>
+            <li>Conhecimentos básicos em banco de dados MySQL</li>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-            <li>Excepcional aptidão para trabalhar em equipe e colaborar eficazmente;</li>
+            <li>Excepcional aptidão para trabalhar em equipe e colaborar eficazmente</li>
         </ul>
     </div>
     <div>
