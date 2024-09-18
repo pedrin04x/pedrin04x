@@ -57,12 +57,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/pedrin04x/pedrin04x/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="center">Social Networks/Contacts</h2>
 
 ###
