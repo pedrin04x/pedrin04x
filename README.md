@@ -18,7 +18,7 @@
     </div>
     <div>
         <h2>Experiência Profissional</h2>
-        <p>Trabalho atualmente como Aprendiz na Neoenergia Pernambuco, aonde procuro aplicar minhas habilidades em programação para otimizar processos internos por meio da automação.</p>
+        <p>Trabalho atualmente como Aprendiz na Neoenergia Pernambuco, onde procuro aplicar minhas habilidades em programação para otimizar processos internos por meio da automação.</p>
     </div>
     <div>
         <h2>Formação</h2>
