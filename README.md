@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Pedro Barros and I'm a developer, from Brazil</h2>
+<h2 align="center">Hi 👋! My name is Pedro Barros and I'm a developer, from Brazil</h2>
 
 ###
 
@@ -58,6 +58,8 @@
 ###
 
 <br clear="both">
+
+<img src="https://raw.githubusercontent.com/pedrin04x/pedrin04x/output/snake.svg" alt="Snake animation" />
 
 ###
 
